@@ -1,0 +1,2 @@
+# QueueBot
+Singing Bot
